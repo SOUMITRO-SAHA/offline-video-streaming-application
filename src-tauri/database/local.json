@@ -1,0 +1,15 @@
+{
+  "default_storage": "/home/soumitra/Documents/.ocsa",
+  "default_folder_name": ".ocsa",
+  "log_file_name": "log",
+  "error_file_name": "error",
+  "app_name": "Offline Course Streaming Application",
+  "version": "0.0.1",
+  "author": "SOUMITRA SAHA",
+  "social": [
+    {
+      "name": "Github",
+      "url": "https://github.com/SOUMITRO-SAHA"
+    }
+  ]
+}
